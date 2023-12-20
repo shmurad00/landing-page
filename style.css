@@ -1,0 +1,16 @@
+*{
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+.custom{
+    border-radius: 15px;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    background-color: rgb(229, 60, 145);
+}
+#bottom{
+    border-bottom: 1px solid #d2d7e5;
+}
+
